@@ -1,3 +1,5 @@
+[source of this document](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-entity-extractor)
+
 ## Define custom entities
 
 Teach Discovery about terms that are significant to your business by creating an entity extractor.
